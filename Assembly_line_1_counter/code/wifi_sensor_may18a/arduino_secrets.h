@@ -1,0 +1,2 @@
+#define SECRET_SSID "OF008 2265"
+#define SECRET_PASS "-91o481C"
